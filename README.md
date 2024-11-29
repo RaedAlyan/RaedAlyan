@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Raed
 
-A well-rounded **Software Engineer** with a passion for **testing** and **problem-solving**.  
-I thrive at the intersection of **tech expertise**, **clear communication**,  
-and a **continuous learning mindset**.
+A well-rounded **Software Engineer** with a passion for **testing**  
+and **problem-solving**. I thrive at the intersection of  
+**tech expertise**, **clear communication**, and a  
+**continuous learning mindset**.
 
 ## 🔧 What I bring to the table
 
